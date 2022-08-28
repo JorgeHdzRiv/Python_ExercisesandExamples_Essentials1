@@ -6,3 +6,12 @@ Para mas informacion:
 
 [Edube](https://edube.org/)
 
+
+
+## Ejemplos
+
+[primer_programa](./Examples/primer_programa.py)
+
+## Laboratorios
+
+[Lab1: Funcion print](./Exercises/Lab1_print.py)
