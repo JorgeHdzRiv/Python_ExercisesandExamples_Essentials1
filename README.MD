@@ -2,6 +2,8 @@
 
 En este repositorio estaran contenidos ejercicios referentes al curso de la certificacion de Python: PCEP – Certified Entry-Level Python Programmer por parte del PYTHON INSTITUTE , todos los codigos de ejemplo son para fines educativos se recomienda tomar el curso para mayor entendimiento del tema.
 
+Cada programa y laboratorio contiene informacion respecto a lo que se debe hacer asi como los objetivos del programa y aprendizaje.
+
 Para mas informacion:
 
 [Edube](https://edube.org/)
@@ -21,4 +23,7 @@ Para mas informacion:
 * [Lab2: Funcion print](./Exercises/Lab2_print2.py)
 * [Lab3: Formato de salida](./Exercises/Lab3_formato_salida.py)
 * [Lab4: Literales](./Exercises/Lab4_Literales.py)
+* [Lab5: Variables](./Exercises/Lab5_Variables.py)
+* [Lab6: Convertidor Kilometros-Millas](./Exercises/Lab6_ConvertidorSencillo.py)
+* [Lab7: OperadoresExpresiones](./Exercises/Lab7_OperadoresExpresiones.py)
 
