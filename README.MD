@@ -28,4 +28,6 @@ Para mas informacion:
 * [Lab6: Convertidor Kilometros-Millas](./Exercises/Lab6_ConvertidorSencillo.py)
 * [Lab7: OperadoresExpresiones](./Exercises/Lab7_OperadoresExpresiones.py)
 * [Lab8:Comentarios](./Exercises/Lab8_Comentarios.py)
+* [Lab9: Entradas y Salidas](./Exercises/Lab9_Entradas_Salidas.py)
+
 
