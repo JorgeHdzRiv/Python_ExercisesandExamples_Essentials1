@@ -16,6 +16,7 @@ Para mas informacion:
 * [operaciones](./Examples/operaciones.py)
 * [literales](./Examples/literales.py)
 * [variables](./Examples/Variables.py)
+* [Funcion input](./Examples/Input.py)
 
 ## Laboratorios
 
