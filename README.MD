@@ -10,8 +10,15 @@ Para mas informacion:
 
 ## Ejemplos
 
-[primer_programa](./Examples/primer_programa.py)
+* [primer_programa](./Examples/primer_programa.py)
+* [operaciones](./Examples/operaciones.py)
+* [literales](./Examples/literales.py)
+* [variables](./Examples/Variables.py)
 
 ## Laboratorios
 
-[Lab1: Funcion print](./Exercises/Lab1_print.py)
+* [Lab1: Funcion print](./Exercises/Lab1_print.py)
+* [Lab2: Funcion print](./Exercises/Lab2_print2.py)
+* [Lab3: Formato de salida](./Exercises/Lab3_formato_salida.py)
+* [Lab4: Literales](./Exercises/Lab4_Literales.py)
+
