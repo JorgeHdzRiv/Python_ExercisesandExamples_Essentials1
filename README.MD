@@ -30,5 +30,6 @@ Para mas informacion:
 * [Lab8:Comentarios](./Exercises/Lab8_Comentarios.py)
 * [Lab9: Entradas y Salidas](./Exercises/Lab9_Entradas_Salidas.py)
 * [Lab10: Operadores y Expresiones](./Exercises/Lab10_Operadores_Expresiones.py)
+* [Lab11: Operadores y Expresiones 2](./Exercises/Lab11_OperadoresExp2.py)
 
 
