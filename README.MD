@@ -26,4 +26,5 @@ Para mas informacion:
 * [Lab5: Variables](./Exercises/Lab5_Variables.py)
 * [Lab6: Convertidor Kilometros-Millas](./Exercises/Lab6_ConvertidorSencillo.py)
 * [Lab7: OperadoresExpresiones](./Exercises/Lab7_OperadoresExpresiones.py)
+* [Lab8:Comentarios](./Exercises/Lab8_Comentarios.py)
 
