@@ -8,8 +8,6 @@ Para mas informacion:
 
 [Edube](https://edube.org/)
 
-
-
 ## Ejemplos
 
 * [primer_programa](./Examples/primer_programa.py)
@@ -32,5 +30,6 @@ Para mas informacion:
 * [Lab9: Entradas y Salidas](./Exercises/Lab9_Entradas_Salidas.py)
 * [Lab10: Operadores y Expresiones](./Exercises/Lab10_Operadores_Expresiones.py)
 * [Lab11: Operadores y Expresiones 2](./Exercises/Lab11_OperadoresExp2.py)
+* [Lab12: Preguntas y respuestas](./Exercises/Lab12_PreguntasRespuestas.py)
 
 
