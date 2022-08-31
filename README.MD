@@ -32,5 +32,6 @@ Para mas informacion:
 * [Lab10: Operadores y Expresiones](./Exercises/Lab10_Operadores_Expresiones.py)
 * [Lab11: Operadores y Expresiones 2](./Exercises/Lab11_OperadoresExp2.py)
 * [Lab12: Preguntas y respuestas](./Exercises/Lab12_PreguntasRespuestas.py)
+* [Lab13: Comparacion y Condicionales](./Exercises/Lab13_ComparacionYCondicional.py)
 
 
