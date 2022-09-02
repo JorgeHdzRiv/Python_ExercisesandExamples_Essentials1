@@ -36,5 +36,6 @@ Para mas informacion:
 * [Lab13: Comparacion y Condicionales](./Exercises/Lab13_ComparacionYCondicional.py)
 * [Lab14: Fundamentos If-Else](./Exercises/Lab14_Fundamentos_If_Else.py)
 * [Lab15: Fundamentos If-Elif-Else](./Exercises/Lab15_Fundamentos_If_Else_Elif.py)
+* [Lab16: Esencial del While](./Exercises/Lab16_Esencial_While.py)
 
 
