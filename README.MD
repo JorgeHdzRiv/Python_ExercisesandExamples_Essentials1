@@ -18,6 +18,7 @@ Para mas informacion:
 * [Operadores Comparacion](./Examples/OperadoresComparacion.py)
 * [Condicional If-Else](./Examples/If_Else.py)
 * [While](./Examples/While.py)
+* [For](./Examples/For.py)
 
 ## Laboratorios
 
