@@ -40,5 +40,6 @@ Para mas informacion:
 * [Lab15: Fundamentos If-Elif-Else](./Exercises/Lab15_Fundamentos_If_Else_Elif.py)
 * [Lab16: Esencial del While](./Exercises/Lab16_Esencial_While.py)
 * [Lab17: For y Conteo](./Exercises/Lab17_For_Conteo.py)
+* [Lab18: Palabra secreta break](./Exercises/Lab18_Break.py)
 
 
