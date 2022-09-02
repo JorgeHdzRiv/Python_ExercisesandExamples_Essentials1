@@ -41,5 +41,6 @@ Para mas informacion:
 * [Lab16: Esencial del While](./Exercises/Lab16_Esencial_While.py)
 * [Lab17: For y Conteo](./Exercises/Lab17_For_Conteo.py)
 * [Lab18: Palabra secreta break](./Exercises/Lab18_Break.py)
+* [Lab19: Continue comedor de vocales](/Exercises/Lab19_Continue.py)
 
 
