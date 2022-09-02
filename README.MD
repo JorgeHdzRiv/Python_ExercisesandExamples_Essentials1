@@ -44,5 +44,6 @@ Para mas informacion:
 * [Lab18: Palabra secreta break](./Exercises/Lab18_Break.py)
 * [Lab19: Continue comedor de vocales](/Exercises/Lab19_Continue.py)
 * [Lab20: Bucle While analisis de bloques](./Exercises/Lab20_BucleWhile_bloques.py)
+* [Lab21: Hipotesis de Collatzs](./Exercises/Lab21_Hipotesis_Collatz.py)
 
 
