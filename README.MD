@@ -46,4 +46,8 @@ Para mas informacion:
 * [Lab20: Bucle While analisis de bloques](./Exercises/Lab20_BucleWhile_bloques.py)
 * [Lab21: Hipotesis de Collatzs](./Exercises/Lab21_Hipotesis_Collatz.py)
 
-
+## Extras
+* [1](./Extras/extra1.py)
+* [2](./Extras/extra2.py)
+* [3](./Extras/extra3.py)
+* [4](./Extras/extra4.py)
