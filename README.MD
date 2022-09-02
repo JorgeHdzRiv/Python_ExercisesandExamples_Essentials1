@@ -17,6 +17,7 @@ Para mas informacion:
 * [Funcion input](./Examples/Input.py)
 * [Operadores Comparacion](./Examples/OperadoresComparacion.py)
 * [Condicional If-Else](./Examples/If_Else.py)
+* [While](./Examples/While.py)
 
 ## Laboratorios
 
