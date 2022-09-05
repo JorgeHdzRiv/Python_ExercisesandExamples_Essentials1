@@ -24,6 +24,7 @@ Para mas informacion:
 * [Operaciones logicas y de bits](./Examples/Logicas_Bits.py)
 * [Listas](./Examples/Listas.py)
 * [Listas2](./Examples/Listas2.py)
+* [Ordenamiento burbuja](./Examples/Ordenamiento_Burbuja.py)
 
 ## Laboratorios
 
