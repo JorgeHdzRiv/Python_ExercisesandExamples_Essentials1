@@ -23,6 +23,7 @@ Para mas informacion:
 * [While con else](./Examples/while_and_else.py)
 * [Operaciones logicas y de bits](./Examples/Logicas_Bits.py)
 * [Listas](./Examples/Listas.py)
+* [Listas2](./Examples/Listas2.py)
 
 ## Laboratorios
 
