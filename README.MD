@@ -49,6 +49,7 @@ Para mas informacion:
 * [Lab20: Bucle While analisis de bloques](./Exercises/Lab20_BucleWhile_bloques.py)
 * [Lab21: Hipotesis de Collatzs](./Exercises/Lab21_Hipotesis_Collatz.py)
 * [Lab22: Listas](./Exercises/Lab22_Listas.py)
+* [Lab23: Listas intermedio los Beatles](./Exercises/Lab23_Listas_LosBeatles.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
