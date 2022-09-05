@@ -26,6 +26,7 @@ Para mas informacion:
 * [Listas2](./Examples/Listas2.py)
 * [Ordenamiento burbuja](./Examples/Ordenamiento_Burbuja.py)
 * [Rebanadas en las listas](./Examples/Slice_List.py)
+* [Operadores in y not in](./Examples/Operadores_in_not.py)
 
 ## Laboratorios
 
