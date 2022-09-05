@@ -53,6 +53,7 @@ Para mas informacion:
 * [Lab21: Hipotesis de Collatzs](./Exercises/Lab21_Hipotesis_Collatz.py)
 * [Lab22: Listas](./Exercises/Lab22_Listas.py)
 * [Lab23: Listas intermedio los Beatles](./Exercises/Lab23_Listas_LosBeatles.py)
+* [Lab24: Operando con listas](./Exercises/Lab24_OperandoconListas.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
