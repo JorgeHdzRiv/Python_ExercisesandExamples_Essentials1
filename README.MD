@@ -62,6 +62,7 @@ Para mas informacion:
 * [Lab24: Operando con listas](./Exercises/Lab24_OperandoconListas.py)
 * [Lab25: Funciones Year Bisiesto](./Exercises/Lab25_Funciones_YearBisiesto.py)
 * [Lab26: Funciones dias y mes](./Exercises/Lab26_Funciones_Dias.py)
+* [Lab27: Funciones dia correspondiente del year](./Exercises/Lab27_Funciones_diasmesesyear.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
