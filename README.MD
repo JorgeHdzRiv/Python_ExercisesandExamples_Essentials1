@@ -32,6 +32,7 @@ Para mas informacion:
 * [Funciones parametrizadas](./Examples/Funciones_parametrizadas.py)
 * [Parametros posicionales](./Examples/Parametros_posicionales.py)
 * [Efectos y Resultados return](./Examples/Efecto_Resultados.py)
+* [Efectos y Resultados listas](./Examples/Efectos_Resultados_Listas.py)
 
 ## Laboratorios
 
