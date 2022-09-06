@@ -27,6 +27,7 @@ Para mas informacion:
 * [Ordenamiento burbuja](./Examples/Ordenamiento_Burbuja.py)
 * [Rebanadas en las listas](./Examples/Slice_List.py)
 * [Operadores in y not in](./Examples/Operadores_in_not.py)
+* [Arreglos Bidimensionales](./Examples/Arreglos_Bidimensionales.py)
 
 ## Laboratorios
 
