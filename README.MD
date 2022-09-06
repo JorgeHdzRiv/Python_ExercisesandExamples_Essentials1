@@ -30,6 +30,7 @@ Para mas informacion:
 * [Arreglos Bidimensionales](./Examples/Arreglos_Bidimensionales.py)
 * [Funciones](./Examples/Funciones.py)
 * [Funciones parametrizadas](./Examples/Funciones_parametrizadas.py)
+* [Parametros posicionales](./Examples/Parametros_posicionales.py)
 
 ## Laboratorios
 
