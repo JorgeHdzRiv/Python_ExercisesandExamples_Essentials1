@@ -61,6 +61,7 @@ Para mas informacion:
 * [Lab23: Listas intermedio los Beatles](./Exercises/Lab23_Listas_LosBeatles.py)
 * [Lab24: Operando con listas](./Exercises/Lab24_OperandoconListas.py)
 * [Lab25: Funciones Year Bisiesto](./Exercises/Lab25_Funciones_YearBisiesto.py)
+* [Lab26: Funciones dias y mes](./Exercises/Lab26_Funciones_Dias.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
