@@ -28,6 +28,7 @@ Para mas informacion:
 * [Rebanadas en las listas](./Examples/Slice_List.py)
 * [Operadores in y not in](./Examples/Operadores_in_not.py)
 * [Arreglos Bidimensionales](./Examples/Arreglos_Bidimensionales.py)
+* [Funciones parametrizadas](./Examples/Funciones.py)
 
 ## Laboratorios
 
