@@ -63,6 +63,7 @@ Para mas informacion:
 * [Lab25: Funciones Year Bisiesto](./Exercises/Lab25_Funciones_YearBisiesto.py)
 * [Lab26: Funciones dias y mes](./Exercises/Lab26_Funciones_Dias.py)
 * [Lab27: Funciones dia correspondiente del year](./Exercises/Lab27_Funciones_diasmesesyear.py)
+* [Lab28: Numeros primos](./Exercises/Lab28_NumerosPrimos.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
