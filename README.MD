@@ -33,6 +33,7 @@ Para mas informacion:
 * [Parametros posicionales](./Examples/Parametros_posicionales.py)
 * [Efectos y Resultados return](./Examples/Efecto_Resultados.py)
 * [Efectos y Resultados listas](./Examples/Efectos_Resultados_Listas.py)
+* [Funcion con dos parametros](./Examples/Funcion_Dosparametros.py)
 
 ## Laboratorios
 
