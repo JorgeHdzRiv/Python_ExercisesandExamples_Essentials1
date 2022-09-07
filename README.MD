@@ -64,6 +64,7 @@ Para mas informacion:
 * [Lab26: Funciones dias y mes](./Exercises/Lab26_Funciones_Dias.py)
 * [Lab27: Funciones dia correspondiente del year](./Exercises/Lab27_Funciones_diasmesesyear.py)
 * [Lab28: Numeros primos](./Exercises/Lab28_NumerosPrimos.py)
+* [Lab29: Consumo de combustible](/Exercises/Lab29_ConsumoCombustible.py)
 
 ## Extras
 * [1](./Extras/extra1.py)
