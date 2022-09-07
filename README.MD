@@ -34,6 +34,7 @@ Para mas informacion:
 * [Efectos y Resultados return](./Examples/Efecto_Resultados.py)
 * [Efectos y Resultados listas](./Examples/Efectos_Resultados_Listas.py)
 * [Funcion con dos parametros](./Examples/Funcion_Dosparametros.py)
+* [Funcion con tres parametros](./Examples/Funciones_Tresparametros.py)
 
 ## Laboratorios
 
