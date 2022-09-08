@@ -37,6 +37,7 @@ Para mas informacion:
 * [Funcion con tres parametros](./Examples/Funciones_Tresparametros.py)
 * [Funciones avanzadas recursividad y series](./Examples/Funciones_Avanzadas.py)
 * [Tuplas](./Examples/Tuplas.py)
+* [Diccionarios](./Examples/Diccionarios.py)
 
 ## Laboratorios
 
