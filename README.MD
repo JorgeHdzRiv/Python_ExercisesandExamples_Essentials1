@@ -38,6 +38,7 @@ Para mas informacion:
 * [Funciones avanzadas recursividad y series](./Examples/Funciones_Avanzadas.py)
 * [Tuplas](./Examples/Tuplas.py)
 * [Diccionarios](./Examples/Diccionarios.py)
+* [Tuplas y diccionarios ejemplo practico](./Examples/Tuplas_Diccionarios.py)
 
 ## Laboratorios
 
