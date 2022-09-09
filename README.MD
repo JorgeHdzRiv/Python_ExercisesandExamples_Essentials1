@@ -39,6 +39,7 @@ Para mas informacion:
 * [Tuplas](./Examples/Tuplas.py)
 * [Diccionarios](./Examples/Diccionarios.py)
 * [Tuplas y diccionarios ejemplo practico](./Examples/Tuplas_Diccionarios.py)
+* [Excepciones](./Examples/Excepciones.py)
 
 ## Laboratorios
 
