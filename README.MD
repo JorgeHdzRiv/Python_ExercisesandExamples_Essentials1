@@ -78,3 +78,6 @@ Para mas informacion:
 * [2](./Extras/extra2.py)
 * [3](./Extras/extra3.py)
 * [4](./Extras/extra4.py)
+
+## Proyecto
+* [TIC-TAC-TOE](./Proyecto/TIC_TAC_TOE.py)
