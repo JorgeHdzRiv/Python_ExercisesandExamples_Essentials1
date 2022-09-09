@@ -80,4 +80,4 @@ Para mas informacion:
 * [4](./Extras/extra4.py)
 
 ## Proyecto
-* [TIC-TAC-TOE](./Proyecto/TIC_TAC_TOE.py)
+* [TIC-TAC-TOE](./TIC_TAC_TOE/)
